@@ -2,7 +2,6 @@
 Fitness website
 
 # Fitness Reclaim
-Link: https://fitness-reclaim.000webhostapp.com/index.php
 
 Fitness Reclaim is a comprehensive web application designed to assist users in managing and improving their fitness journey. Built using HTML, CSS, JavaScript, PHP, and MySQL, this platform provides a user-friendly interface and essential tools for tracking fitness progress.
 
